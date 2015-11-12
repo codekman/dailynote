@@ -1,0 +1,3 @@
+# dailynote
+
+read me 
